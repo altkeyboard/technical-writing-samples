@@ -17,11 +17,13 @@ High-level documentation artifact illustrating local workflow, feature branching
 - Workflow visualization
 - Structured technical explanation
 
-📄 Documentation Sample:  
+## Documentation Sample
+
 [View PDF](git-distributed-workflow/Git_Distributed_Workflow_Documentation_Sample.pdf)
 
-🖼 Diagram:  
-`git-distributed-workflow/git-workflow-diagram.png`
+## Diagram Preview
+
+![Git Distributed Workflow Diagram](git-distributed-workflow/git-workflow-diagram.png)
 
 ---
 
